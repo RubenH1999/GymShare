@@ -1,0 +1,107 @@
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.csprojAssemblyReference.cache
+E:\WPF\GymShare\GymShare\obj\Debug\View\RitDetailWindow.g.cs
+E:\WPF\GymShare\GymShare\obj\Debug\View\RitWindow.g.cs
+E:\WPF\GymShare\GymShare\obj\Debug\App.g.cs
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare_MarkupCompile.cache
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare_MarkupCompile.lref
+E:\WPF\GymShare\GymShare\bin\Debug\GymShare.exe.config
+E:\WPF\GymShare\GymShare\bin\Debug\GymShare.exe
+E:\WPF\GymShare\GymShare\bin\Debug\GymShare.pdb
+E:\WPF\GymShare\GymShare\bin\Debug\Dapper.dll
+E:\WPF\GymShare\GymShare\bin\Debug\System.Reactive.Core.dll
+E:\WPF\GymShare\GymShare\bin\Debug\System.Reactive.dll
+E:\WPF\GymShare\GymShare\bin\Debug\System.Reactive.Linq.dll
+E:\WPF\GymShare\GymShare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WPF\GymShare\GymShare\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WPF\GymShare\GymShare\bin\Debug\System.ValueTuple.dll
+E:\WPF\GymShare\GymShare\bin\Debug\Dapper.xml
+E:\WPF\GymShare\GymShare\bin\Debug\System.Reactive.xml
+E:\WPF\GymShare\GymShare\bin\Debug\System.Reactive.Core.xml
+E:\WPF\GymShare\GymShare\bin\Debug\System.Reactive.Linq.xml
+E:\WPF\GymShare\GymShare\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WPF\GymShare\GymShare\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WPF\GymShare\GymShare\bin\Debug\System.ValueTuple.xml
+E:\WPF\GymShare\GymShare\obj\Debug\View\RitDetailWindow.baml
+E:\WPF\GymShare\GymShare\obj\Debug\View\RitWindow.baml
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.g.resources
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.Properties.Resources.resources
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.csproj.GenerateResource.cache
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.csproj.CoreCompileInputs.cache
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.csproj.CopyComplete
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.exe
+E:\WPF\GymShare\GymShare\obj\Debug\GymShare.pdb
+E:\WPF\GymShare\GymShare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WPF\GymShare\GymShare\obj\Debug\App.baml
+E:\WPF\GymShare\GymShare\obj\Debug\View\GymDetailWindow.g.cs
+E:\WPF\GymShare\GymShare\obj\Debug\View\GymWindow.g.cs
+E:\WPF\GymShare\GymShare\obj\Debug\View\GymDetailWindow.baml
+E:\WPF\GymShare\GymShare\obj\Debug\View\GymWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\GymShare.exe.config
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\GymShare.exe
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\GymShare.pdb
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Dapper.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Reactive.Core.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Reactive.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Reactive.Linq.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.ValueTuple.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Dapper.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Reactive.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Reactive.Core.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Reactive.Linq.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\System.ValueTuple.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.csprojAssemblyReference.cache
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\GymDetailWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\GymWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\RitDetailWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\RitWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\App.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare_MarkupCompile.cache
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare_MarkupCompile.lref
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\App.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\GymDetailWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\GymWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\RitDetailWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\RitWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.g.resources
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.Properties.Resources.resources
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.csproj.GenerateResource.cache
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.csproj.CoreCompileInputs.cache
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.csproj.CopyComplete
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.exe
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GymShare.pdb
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\LoginWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\LoginWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\AdminDashboardWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\GebruikerDashboardWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\ProfielWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\AdminDashboardWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\GebruikerDashboardWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\ProfielWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\NieuweRitWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\NieuweRitWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\BeschikbareRittenWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\BeschikbareRittenWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\MijnRittenWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\MijnRittenWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Core.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Platform.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Core.pdb
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Core.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\XamlC.stamp
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\RegisterWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\RegisterWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\PassagierRittenWindow.g.cs
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\View\PassagierRittenWindow.baml
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\MaterialDesignColors.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\MaterialDesignColors.pdb
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\WPF 2.0\GymShare\GymShare\GymShare\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\WPF 2.0\GymShare\GymShare\GymShare\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,21 @@
+﻿<Window x:Class="GymShare.View.ProfielWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"       
+
+        xmlns:local="clr-namespace:GymShare.View"
+        DataContext="{Binding Source={StaticResource profielViewModelLocator}, Path=ProfielViewModel}"
+        mc:Ignorable="d"
+        Title="ProfielWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="127,171,0,0" TextWrapping="Wrap" Text="{Binding Profiel.Firstname}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="127,199,0,0" TextWrapping="Wrap" Text="{Binding Profiel.Lastname}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="127,232,0,0" TextWrapping="Wrap" Text="{Binding Profiel.Email}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="127,260,0,0" TextWrapping="Wrap" Text="{Binding Profiel.Phone}" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Close" HorizontalAlignment="Left" Margin="73,347,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="button1" Content="Save" HorizontalAlignment="Left" Margin="274,347,0,0" VerticalAlignment="Top" Width="75"/>
+
+
+    </Grid>
+</Window>
